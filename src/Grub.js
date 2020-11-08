@@ -7,7 +7,7 @@ class Grub {
   }
 
 
-  eat () {
+  eat() {
     return 'Mmmmmmmmm jelly';
   }
 };
